@@ -8,12 +8,34 @@ For full pulication list, please see my [google scholar](https://scholar.google.
 <br />
 \* denotes equal contribution
 ## 2024
+
+![image](/images/publication/GEXIA.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning**  <br />
+Yicheng Wang, Zhikang Zhang, Jue Wang, David Fan, Zhenlin Xu, Linda Liu, Xiang Hao, Vimal Bhat, **Xinyu Li**. <br />
+**WACV 2025** [Paper Link](TBA)<br /><br /><br /><br /><br />
+
+![image](/images/publication/AD.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**Now You See Me: Context-Aware Automatic Audio Description**  <br />
+Seon-Ho Lee, Jue Wang, David Fan, Zhikang Zhang, Linda Liu, Xiang Hao, Vimal Bhat, **Xinyu Li**. <br />
+**WACV 2025** [Paper Link](TBA)<br /><br /><br /><br /><br />
+
+![image](/images/publication/VTM.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**Text-Guided Video Masked Autoencoder**  <br />
+Seon-Ho Lee, Jue Wang, Zhikang Zhang, David Fan, **Xinyu Li**. <br />
+**NeurIPS 2024** [Paper Link](https://arxiv.org/pdf/2410.23782)<br /><br /><br /><br /><br />
+
 ![image](/images/publication/TGM.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
 **Text-Guided Video Masked Autoencoder**  <br />
 David Fan, Jue Wang, Shuai Liao, Zhikang Zhang, Vimal Bhat, **Xinyu Li**. <br />
-**ECCV 2024** [Paper Link](https://arxiv.org/abs/2408.00759)<br /><br /><br /><br />
+**ECCV 2024** [Paper Link](https://arxiv.org/abs/2408.00759)<br /><br /><br /><br /><br />
 
 ## 2023
 ![image](/images/publication/MGM.png){: style="float: left; padding-right: 10px"

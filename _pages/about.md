@@ -9,9 +9,9 @@ redirect_from:
 ---
 
 # About Me
-I am a senior applied scientist at Amazon AGI (Artificial General Intelligence), working on foundation models for video understanding.
+I am a senior applied scientist at Amazon AGI (Artificial General Intelligence), working on foundation models and leading the video understanding thread.
 
-Before to AGI, I was a senior applied scientist at Amazon Prime Video. Prior to that, I was the senior research scientist at ByteDance/TikTok and senior applied scientist at Amazon AWS AI from 2018 to 2022, leading video related research and products. 
+Before to AGI, I was a senior applied scientist at Amazon Prime Video. Prior to that, I was the senior research scientist at ByteDance/TikTok and Amazon AWS AI from 2018 to 2022, leading video related research and products. 
 I was also one of the major contributor to open-source tools [GluonCV](https://cv.gluon.ai/) and tools [GluonMM](https://github.com/amazon-research/gluonmm).
 
 I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic.
@@ -19,7 +19,11 @@ I received my Bachelor’s Degree (2013) at [University of Electronic Science an
 
 
 # News
-* [**2023**] **ECCV 2024** publication: "Text-Guided Video Masked Autoencoder". [Paper](https://arxiv.org/abs/2408.0075)
+* [**2024**] **Nova Models** Checkout our Nova model family. [Tech report](https://assets.amazon.science/9f/a3/ae41627f4ab2bde091f1ebc6b830/the-amazon-nova-family-of-models-technical-report-and-model-card.pdf)
+* [**2024**] **WACV 2025** publications: "GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning". [Paper](TBD)
+* [**2024**] **WACV 2025** publications: "Now You See Me: Context-Aware Automatic Audio Description". [Paper](TBD)
+* [**2024**] **NeurIPS 2024** publication: "Video token merging for long-form video understanding". [Paper](https://arxiv.org/pdf/2410.23782)
+* [**2024**] **ECCV 2024** publication: "Text-Guided Video Masked Autoencoder". [Paper](https://arxiv.org/abs/2408.0075)
 * [**2023**] **ICCV 2023** publication: "Motion-Guided Masking for Spatiotemporal Representation Learning". [Paper](https://arxiv.org/pdf/2303.14865.pdf)
 * [**2023**] **ICCV 2023** publication: "MEGA: Multimodal Alignment Aggregation and Distillation For Cinematic Video Segmentation". [Paper](https://arxiv.org/pdf/2303.14865.pdf)
 * [**2023**] **CVPR 2023** publication: "Revisiting multimodal representation in contrastive learning: from patch and token embeddings to finite discrete tokens". [Paper](https://arxiv.org/pdf/2303.14865.pdf)

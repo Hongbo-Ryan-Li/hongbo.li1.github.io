@@ -4,16 +4,15 @@ permalink: /publications/
 author_profile: true
 ---
 
-For full pulication list, please see my [google scholar](https://scholar.google.com/citations?user=xMnAUmkAAAAJ&hl=en)
+Selected publications for past 5 years, for full pulication list, please see my [google scholar](https://scholar.google.com/citations?user=xMnAUmkAAAAJ&hl=en)
 <br />
 \* denotes equal contribution
-## 2024
 
 ![image](/images/publication/GEXIA.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
 **GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning**  <br />
-Yicheng Wang, Zhikang Zhang, Jue Wang, David Fan, Zhenlin Xu, Linda Liu, Xiang Hao, Vimal Bhat, **Xinyu Li**. <br />
+Yicheng Wang, Zhikang Zhang, Jue Wang, ..., **Xinyu Li**. <br />
 **WACV 2025** [Paper Link](TBA)<br /><br />
 
 ![image](/images/publication/AD.png){: style="float: left; padding-right: 10px"
@@ -37,7 +36,6 @@ Seon-Ho Lee, Jue Wang, Zhikang Zhang, David Fan, **Xinyu Li**. <br />
 David Fan, Jue Wang, Shuai Liao, Zhikang Zhang, Vimal Bhat, **Xinyu Li**. <br />
 **ECCV 2024** [Paper Link](https://arxiv.org/abs/2408.00759)<br /><br /><br /><br /><br /><br />
 
-## 2023
 ![image](/images/publication/MGM.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
@@ -83,7 +81,6 @@ David Fan, Deyu Yang, **Xinyu Li**, Vimal Bhat, Rohith MV. <br />
 **WACV23** [Paper Link](https://openaccess.thecvf.com/content/WACV2023/papers/Li_Discrete_Cosin_TransFormer_Image_Modeling_From_Frequency_Domain_WACV_2023_paper.pdf)<br /><br /><br /><br /><br /><br />
 
 
-## 2022
 ![image](/images/publication/TubeR.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
@@ -126,7 +123,6 @@ Feng Cheng, Mingze Xu, Yuanjun Xiong, Hao Chen, **Xinyu Li**, Wei Li, Wei Xia.<b
 Zhe Wang, Hao Chen, **Xinyu Li**, Chunhui Liu, Yuanjun Xiong, Joseph Tighe, Charless Fowlkes. 
 **WACV22** [Link](https://openaccess.thecvf.com/content/WACV2022/papers/Wang_SSCAP_Self-Supervised_Co-Occurrence_Action_Parsing_for_Unsupervised_Temporal_Action_Segmentation_WACV_2022_paper.pdf) <br /><br />
 
-## 2021
 ![image](/images/publication/LSTR.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }  
@@ -169,7 +165,6 @@ Yanyi Zhang, **Xinyu Li\***, Ivan Marsic.<br />
 Bing Shuai, Andrew G. Berneshawi, **Xinyu Li**, Davide Modolo, Joseph Tighe.<br />
 **CVPR 2021** [Paper Link](https://openaccess.thecvf.com/content/CVPR2021/papers/Shuai_SiamMOT_Siamese_Multi-Object_Tracking_CVPR_2021_paper.pdf) <br /><br />
 
-## 2020
 ![image](/images/publication/survey.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto } 
@@ -189,7 +184,7 @@ Zhu, Yi, **Xinyu Li**, Chunhui Liu, Mohammadreza Zolfaghari, Yuanjun Xiong, Chon
 **Application of Multi-Object Tracking with Siamese Track-RCNNto the Human in Events Dataset** <br />
 Bing Shuai, Andrew G. Berneshawi, Manchen Wang, Chunhui Liu, Davide Modolo, **Xinyu Li**, Joseph Tighe.<br />
 **ACM MM 2020** [Paper Link](https://arxiv.org/abs/2007.11040) <br /><br />
-
+<!-- 
 ## 2019
 ![image](/images/publication/ASR.png){: style="float: left; padding-right: 10px"
                                         width="300px"
@@ -256,4 +251,4 @@ Yue Gu, Kangning Yang, Shiyu Fu, Shuhong Chen, **Xinyu Li**, and Ivan Marsic.<br
 **A Novel Single Image Dehazing Method** <br />
 Yanjing Yang, Zhizhong Fu, **Xinyu Li**, Chang Shu, and Xiaofeng Li.<br />
 **ICCP 2013** 
-                                                                                    
+                                                                                     -->

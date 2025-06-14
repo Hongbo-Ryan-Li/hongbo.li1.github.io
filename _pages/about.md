@@ -9,19 +9,19 @@ redirect_from:
 ---
 
 # About Me
-I am a senior applied scientist at Amazon AGI (Artificial General Intelligence), working on foundation models and leading the video understanding thread.
+I am a Principal Applied Scientist at Amazon AGI, I am leading multi-modal understanding efforts, including multimodal encoder and multimodal embedding model, video understanding and cross-modal understadning. Checkout our latest models [Nova](https://assets.amazon.science/96/7d/0d3e59514abf8fdcfafcdc574300/nova-tech-report-20250317-0810.pdf) and [Nova Premier](https://assets.amazon.science/e5/e6/ccc5378c42dca467d1abe1628ec9/amazon-nova-premier-technical-report-and-model-card.pdf)
 
 Before to AGI, I was a senior applied scientist at Amazon Prime Video. Prior to that, I was the senior research scientist at ByteDance/TikTok and Amazon AWS AI from 2018 to 2022, leading video related research and products. 
 I was also one of the major contributor to open-source tools [GluonCV](https://cv.gluon.ai/) and tools [GluonMM](https://github.com/amazon-research/gluonmm).
 
-I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic.
-I received my Bachelor’s Degree (2013) at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
+I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic and my Bachelor’s Degree (2013) at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 
 # News
-* [**2024**] **Nova Models** Checkout our Nova model family. [Tech report](https://assets.amazon.science/9f/a3/ae41627f4ab2bde091f1ebc6b830/the-amazon-nova-family-of-models-technical-report-and-model-card.pdf)
-* [**2024**] **WACV 2025** publications: "GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning". [Paper](TBD)
-* [**2024**] **WACV 2025** publications: "Now You See Me: Context-Aware Automatic Audio Description". [Paper](TBD)
+* [**2025**] **Nova Models** Nova Premier. [Tech report](https://assets.amazon.science/e5/e6/ccc5378c42dca467d1abe1628ec9/amazon-nova-premier-technical-report-and-model-card.pdf)
+* [**2025**] **WACV 2025** publications: "GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning". [Paper](https://assets.amazon.science/f0/a3/89edae924f98888b693812fa1bcc/gexia-granularity-expansion-and-iterative-approximation-for-scalable-multi-grained-video-language-learning.pdf)
+* [**2025**] **WACV 2025** publications: "Now You See Me: Context-Aware Automatic Audio Description". [Paper](https://assets.amazon.science/a3/c2/ce0b893b42518f664fc0018a34b2/now-you-see-me-context-aware-automatic-audio-description.pdf)
+* [**2024**] **Nova Models** Amazon Nova model family. [Tech report](https://assets.amazon.science/9f/a3/ae41627f4ab2bde091f1ebc6b830/the-amazon-nova-family-of-models-technical-report-and-model-card.pdf)
 * [**2024**] **NeurIPS 2024** publication: "Video token merging for long-form video understanding". [Paper](https://arxiv.org/pdf/2410.23782)
 * [**2024**] **ECCV 2024** publication: "Text-Guided Video Masked Autoencoder". [Paper](https://arxiv.org/abs/2408.0075)
 * [**2023**] **ICCV 2023** publication: "Motion-Guided Masking for Spatiotemporal Representation Learning". [Paper](https://arxiv.org/pdf/2303.14865.pdf)

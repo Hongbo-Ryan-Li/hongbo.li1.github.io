@@ -9,7 +9,7 @@ redirect_from:
 ---
 
 # About Me
-I am a Principal Applied Scientist at Amazon AGI, leading the development of large multimodal understanding models under the Nova family. My work spans the design and implementation of multimodal encoders, the establishment of training pipelines for pre-training, fine-tuning, and reinforcement learning (PT/SFT/PPO) for multimodal content (image, video, audio and text), as well as model evaluation and deployment. Nova models achieve state-of-the-art video understanding performance and are now serving customers in media, entertainment, and security domains. I also lead research on next-generation architectures for unified understanding and generation.
+I am a Principal Applied Scientist at Amazon AGI, leading the development of large multimodal models in the Nova family—from encoder design to PT/SFT/PPO, and deployment. Nova models deliver state-of-the-art video understanding and serve customers across media, entertainment, and security domains. I also lead research on next-generation architectures for unified understanding and generation.
 
 Before joining AGI, I was a Staff Research Scientist at ByteDance, focusing on large multimodal modeling, and previously a Senior Applied Scientist at AWS AI, where I led video and multimodal understanding research powering services such as Rekognition Video, ad insertion, and Prime Video content intelligence.
 

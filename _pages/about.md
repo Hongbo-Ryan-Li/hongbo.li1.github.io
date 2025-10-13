@@ -9,15 +9,15 @@ redirect_from:
 ---
 
 # About Me
-I am a Principal Applied Scientist at Amazon AGI, I am leading multi-modal understanding efforts, including multimodal encoder and multimodal embedding model, video understanding and cross-modal understadning. Checkout our latest models [Nova](https://assets.amazon.science/96/7d/0d3e59514abf8fdcfafcdc574300/nova-tech-report-20250317-0810.pdf) and [Nova Premier](https://assets.amazon.science/e5/e6/ccc5378c42dca467d1abe1628ec9/amazon-nova-premier-technical-report-and-model-card.pdf)
+I am a Principal Applied Scientist at Amazon AGI, leading the development of large multimodal understanding models under the Nova family. My work spans the design and implementation of multimodal encoders, the establishment of training pipelines for pre-training, fine-tuning, and reinforcement learning (PT/SFT/PPO) for multimodal content (image, video, audio and text), as well as model evaluation and deployment. Nova models achieve state-of-the-art video understanding performance and are now serving customers in media, entertainment, and security domains. I also lead research on next-generation architectures for unified understanding and generation.
 
-Before to AGI, I was a senior applied scientist at Amazon Prime Video. Prior to that, I was the senior research scientist at ByteDance/TikTok and Amazon AWS AI from 2018 to 2022, leading video related research and products. 
-I was also one of the major contributor to open-source tools [GluonCV](https://cv.gluon.ai/) and tools [GluonMM](https://github.com/amazon-research/gluonmm).
+Before joining AGI, I was a Staff Research Scientist at ByteDance, focusing on large multimodal modeling, and previously a Senior Applied Scientist at AWS AI, where I led video and multimodal understanding research powering services such as Rekognition Video, ad insertion, and Prime Video content intelligence.
 
 I received my Ph.D. Degree (2018) at [Rutgers University](https://www.rutgers.edu/) supervised by Prof. Ivan Marsic and my Bachelor’s Degree (2013) at [University of Electronic Science and Technology of China](https://www.uestc.edu.cn/).
 
 
 # News
+* [**2025**] **ICCV 2025** Publication. [Paper](https://iccv.thecvf.com/virtual/2025/poster/2604)
 * [**2025**] **Nova Models** Nova Premier. [Tech report](https://assets.amazon.science/e5/e6/ccc5378c42dca467d1abe1628ec9/amazon-nova-premier-technical-report-and-model-card.pdf)
 * [**2025**] **WACV 2025** publications: "GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning". [Paper](https://assets.amazon.science/f0/a3/89edae924f98888b693812fa1bcc/gexia-granularity-expansion-and-iterative-approximation-for-scalable-multi-grained-video-language-learning.pdf)
 * [**2025**] **WACV 2025** publications: "Now You See Me: Context-Aware Automatic Audio Description". [Paper](https://assets.amazon.science/a3/c2/ce0b893b42518f664fc0018a34b2/now-you-see-me-context-aware-automatic-audio-description.pdf)

@@ -8,19 +8,27 @@ Selected publications for past 5 years, for full pulication list, please see my 
 <br />
 \* denotes equal contribution
 
+![image](/images/publication/semivisbooster.png){: style="float: left; padding-right: 10px"
+                                        width="300px"
+                                        height=auto }
+**SemiVisBooster: Boosting Semi-Supervised Learning for Fine-Grained Classification through Pseudo-Label Semantic Guidance**  <br />
+Wenjin Zhang, **Xinyu Li**, Chenyang Gao, Ivan Marsic. <br />
+**ICCV 2025** [Paper Link](TBA)<br /><br /><br /><br />
+
+
 ![image](/images/publication/GEXIA.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
 **GEXIA: Granularity Expansion and Iterative Approximation for Scalable Multi-grained Video-language Learning**  <br />
 Yicheng Wang, Zhikang Zhang, Jue Wang, ..., **Xinyu Li**. <br />
-**WACV 2025** [Paper Link](TBA)<br /><br />
+**WACV 2025** [Paper Link](https://arxiv.org/abs/2412.07704)<br /><br />
 
 ![image](/images/publication/AD.png){: style="float: left; padding-right: 10px"
                                         width="300px"
                                         height=auto }
 **Now You See Me: Context-Aware Automatic Audio Description**  <br />
 Seon-Ho Lee, Jue Wang, David Fan, Zhikang Zhang, Linda Liu, Xiang Hao, Vimal Bhat, **Xinyu Li**. <br />
-**WACV 2025** [Paper Link](TBA)<br /><br /><br /><br />
+**WACV 2025** [Paper Link](https://arxiv.org/pdf/2412.10002)<br /><br /><br /><br />
 
 ![image](/images/publication/vtm.png){: style="float: left; padding-right: 10px"
                                         width="300px"
